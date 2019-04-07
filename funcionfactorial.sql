@@ -8,4 +8,3 @@ begin
 end;
 /
 
-select factorial(5) from dual;
