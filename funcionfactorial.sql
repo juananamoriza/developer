@@ -1,10 +1,11 @@
 create or replace function FACTORIAL (n number) return number is
-	factu number(30):=1;
+	fact number(30):=1;
 begin
 	for i in 2..n loop
-		factu:=i*i;
+		fact:=i*i;
 	end loop;
-	return factu;
+	return fact;
 end;
 /
 
+-- Cambios desde txipi27
