@@ -37,8 +37,6 @@ insert into empleado values
 insert into empleado values
 (1012, 'LOPEZ DE LUZURIAGA GOBANTES UNAI', 'ANALISTA', 1003, TO_DATE('14/10/2001','DD/MM/YYYY'), 1000.5, 0, 4);
 insert into empleado values
-(1013, 'ONRUBIA RODRIGUEZ CARLOS', 'ANALISTA', 1003, TO_DATE('14/10/2001','DD/MM/YYYY'), 1000.5, 0, 4);
-insert into empleado values
 (1014, 'OROZCO NEILA IGNACIO MARIO', 'ANALISTA', 1003, TO_DATE('14/10/2001','DD/MM/YYYY'), 1000.5, 0, 4);
 insert into empleado values
 (1015, 'SAEZ DE IBARRA HERCE AROA', 'ANALISTA', 1003, TO_DATE('14/10/2001','DD/MM/YYYY'), 1000.5, 0, 4);
