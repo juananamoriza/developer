@@ -8,4 +8,5 @@ begin
 end;
 /
 
--- Cambios desde txipi27
+-- Cambios desde rubik3
+--Cambios de Tantan
