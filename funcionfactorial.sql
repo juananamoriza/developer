@@ -9,4 +9,4 @@ begin
 end;
 /
 
--- Cambios desde txipi27
+-- Cambios desde txipi23
