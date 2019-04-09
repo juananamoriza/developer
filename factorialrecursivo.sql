@@ -1,4 +1,4 @@
-create or replace function FACTORIAL (num number) return number is
+create or replace function FACTORIAL (num6 number) return number is
 begin
 	if num=1 then
 		return 1;
