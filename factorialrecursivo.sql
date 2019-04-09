@@ -4,6 +4,6 @@ begin
 		return 1;
 	else
 		return num1*factorial(num1-1);
-	end if
+	end if;
 end;
 /
