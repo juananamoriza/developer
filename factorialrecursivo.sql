@@ -1,9 +1,9 @@
-create or replace function FACTORIAL (num number) return number is
+create or replace function FACTORIAL (num14 number) return number is
 begin
-	if num=1 then
+	if num14=1 then
 		return 1;
 	else
-		return num*factorial(num-1);
+		return num14*factorial(num14-1);
 	end if;
 end;
 /
