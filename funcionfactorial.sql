@@ -3,9 +3,9 @@ create or replace function FACTORIAL (n number) return number is
 begin
 	for i in 2..n loop
 		fact:=fact*i; --corregido por L -- pisado lo de tania
-	end loop;
+    end loop;
 	return fact;
 end;
 /
 
--- Cambios desde txipi27
+-- Cambios desde rubik3
